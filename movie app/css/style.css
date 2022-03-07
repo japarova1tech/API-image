@@ -113,3 +113,12 @@ body {
 .movie__average--red {
     border: 1px solid red;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    padding: 26px;
+    font-style: italic;
+}
